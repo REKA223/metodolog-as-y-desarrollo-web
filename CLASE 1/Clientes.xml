@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Escribir datos en XML-->
+<DatosCliente NombreTipo="Guardar">
+  <NombreNumero>fd</NombreNumero>
+  <Apellidos>Caballero</Apellidos>
+  <Direccion>1842</Direccion>
+</DatosCliente>
